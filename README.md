@@ -33,12 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Divaranan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divaranan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divaranan&layout=compact&theme=tokyonight)
-
----
 
 ### 📌 About Me
 - 🎓 Completed Higher National Diploma in IT (HNDIT)
