@@ -27,4 +27,4 @@
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/divaranan-balachandran-80a81141a]
-- **Email:** your.email@gmail.com
+- **Email:** divaranan.a.email@gmail.com
