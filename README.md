@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Divaranan 👋
 
-<!--
-**Divaranan/Divaranan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **HNDIT Graduate** with a strong foundation in Information Technology and Software Development.  
+💻 Passionate about Web Development, Software Engineering, and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript, HTML5, CSS3, SQL, Python, Java, PHP, C#, Flutter (Dart)
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Database:** MySQL
+
+---
+### 🎯 Areas of Interest
+- 🌐 **Web Development:** Building responsive & modern web apps
+- 📱 **App Development:** Cross-platform mobile applications
+- 🎮 **Game Development:** Mechanics, game design & interactive logic
+
+---
+
+### 📌 About Me
+- 🎓 Completed Higher National Diploma in IT (HNDIT)
+- 🚀 Building projects for my Portfolio & Internship
+- 💼 Actively looking for Software Engineering / Web Development/ Internship opportunities
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** [https://www.linkedin.com/in/divaranan-balachandran-80a81141a]
+- **Email:** your.email@gmail.com
