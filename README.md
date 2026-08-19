@@ -34,10 +34,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divaranan&show_icons=true&theme=tokyonight" alt="Divaranan Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divaranan&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+![Divaranan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divaranan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divaranan&layout=compact&theme=tokyonight)
 
 ---
 
